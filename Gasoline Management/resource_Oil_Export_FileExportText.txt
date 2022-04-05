@@ -1,0 +1,3 @@
+Time,Buyer,Type,Amount,Price per liter,Total Price 
+22/10/2021;f;Gasoline;2L;3 vnd;6 vnd
+22/09/2021;Thong;Gasoline;3L;4 vnd;12 vnd

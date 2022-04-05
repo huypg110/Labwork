@@ -1,0 +1,2 @@
+Time,Buyer,Type,Amount,Price per liter,Total Price 
+30/08/2021;4433;Gasoline;3L;4 vnd;12 vnd

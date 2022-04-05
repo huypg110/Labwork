@@ -1,0 +1,2 @@
+Time,Buyer,Type,Amount,Price per liter,Total Price 
+20/10/2020;hieu;Gasoline;50L;20 vnd;1000 vnd

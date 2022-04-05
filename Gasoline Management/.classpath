@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ngoda/Desktop/By Tesla/src/mainboard/filters-2.0.235.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ngoda/Desktop/By Tesla/src/mainboard/swing-worker-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ngoda/Desktop/By Tesla/src/mainboard/swingx-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ngoda/Desktop/By Tesla/src/mainboard/TimingFramework-0.55.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

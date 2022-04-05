@@ -1,0 +1,4 @@
+Time,Seller,Type,Amount,Price per liter,Total Price 
+12/10/2001;NoteBa;Gasoline;216L;6 vnd;1296 vnd
+12/10/2001;NoteBa;Gasoline;216L;6 vnd;1296 vnd
+;;Gasoline;L; vnd; vnd
